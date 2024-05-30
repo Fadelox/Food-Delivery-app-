@@ -1,4 +1,4 @@
-This project is a food delivery app that allows users to order food from various restaurants and get it delivered to their doorstep. The app is built using Java and Firebase as the backend. Some of the features of the app are:
+This project is a food delivery app that allows users to order food from Mazzano restaurants and get it delivered to their doorstep. The app is built using Java and Firebase as the backend. Some of the features of the app are:
       Users can browse through different categories of food, such as pizza, burgers, sushi, etc.
       Users can view the menu, ratings, and reviews of each restaurant.
       Users can add items to their cart and customize their order with options like toppings, sauces, etc.
